@@ -1,2 +1,4 @@
 # ArcticCVdemo
-base on opencv 4.70, build in VS2022
+基于Opencv 4.70，参考配置教程
+https://www.murtazahassan.com/courses
+
