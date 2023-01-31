@@ -9,3 +9,7 @@ https://www.bilibili.com/video/BV11A411T7rL?vd_source=1a2436894a5397cee3e7a08eb9
 ```
 需要自行修改VS工程中的相关依赖的外部库
 ```
+
+
+人脸相关demo如果xml版本不是最新可自行更换。地址
+https://github.com/opencv/opencv/tree/4.x/data
