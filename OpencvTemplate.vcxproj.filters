@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\pic">
+      <UniqueIdentifier>{9ad207f3-2e5a-411a-b74d-b1ad25511ef3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\video">
+      <UniqueIdentifier>{ba4d7cff-0bb6-45f5-b10b-f43b4f1d2aa1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OpencvTemplate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyLoadingFunc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\pic\Geralt_sword-size_1600x1200.png">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\Geralt_sword-size_1920x1080.png">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\Geralt_sword-size_1920x1200.png">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\yy.jpg">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\qxx.jpg">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\sb.jpg">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\zyl.jpg">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+    <Image Include="Resources\pic\gamemap.png">
+      <Filter>资源文件\pic</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\video\romance.mp4">
+      <Filter>资源文件\video</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CMyLoadingFunc.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
