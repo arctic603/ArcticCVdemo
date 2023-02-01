@@ -16,3 +16,6 @@ https://github.com/opencv/opencv/tree/4.x/data
 
 通过色彩三要素来筛选颜色
 ![color](https://user-images.githubusercontent.com/87646355/215963907-ddc5b8bf-9476-47f6-9a86-306f681ed9f9.jpg)
+
+关于色彩三要素的解释参考
+https://www.zhihu.com/question/20656077
